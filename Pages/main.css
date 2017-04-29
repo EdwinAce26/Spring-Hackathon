@@ -1,0 +1,44 @@
+#gallery {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+#image{
+    width: 350px;
+margin:0 auto;
+    text-align :center ;
+}
+.gallery-thumb {
+    display: inline-block;
+    padding: 5px;
+    box-sizing: border-box;
+    width: 100px;
+    height:100px;
+}
+
+#gallery-main {
+    display: block;
+    width: 350px;
+    min-height: 375px;
+    margin: 0 auto;
+    background:#04f4b0;
+
+}
+body{
+ background:#04f4b0;
+ color:#b064f4;
+}
+
+h1 {
+	font-family: Gloria Hallelujah;
+	font-size: 32px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 24.6px;
+	
+}
+p{
+    color: red;
+    font-size: 20px;
+}

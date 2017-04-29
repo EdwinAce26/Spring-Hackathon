@@ -1,0 +1,64 @@
+#securitybox,
+#Genes,
+#Transport,
+#Space
+{
+    width: 40%; 
+    height: 400px;
+    float: left;
+    margin: 25px;
+    
+}
+#securitybox img{
+    width: 250px ;
+}
+
+#Ideas:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+body{
+    background: #04f4b0;
+color:#b004f4;
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size:22px 
+}
+
+#list {
+    float: left;
+    /*height: 50px ;*/
+    /*background-color:  ;*/
+    width: 25%;
+    
+}
+
+#Ideas{
+    background-color: white ;
+    float: right;
+    width: 75%; 
+    text-align: center;
+    
+}
+
+/*{*/
+/*        width: 50%; */
+/*        margin: 25px;*/
+/*        float: right;*/
+    
+/*}*/
+
+h1 {
+    text-align: center;
+    font-size:30px; 
+}
+
+
+
+
+
+
+
+

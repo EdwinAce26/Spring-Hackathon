@@ -1,0 +1,16 @@
+p,body,iframe{
+    text-align:center;
+}
+
+p{
+    color:white;
+    font-size:26px;
+    background-color:black;
+}
+body{
+    background-image: url("http://wallpapercave.com/wp/SvqeCF7.jpg");
+}
+iframe{
+        height:400px;
+        width:700px; 
+}
